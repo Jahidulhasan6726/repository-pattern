@@ -1,0 +1,8 @@
+H:\HTML class\project-repository\project-Repository\obj\Debug\project-Repository.csproj.AssemblyReference.cache
+H:\HTML class\project-repository\project-Repository\obj\Debug\project-Repository.csproj.SuggestedBindingRedirects.cache
+H:\HTML class\project-repository\project-Repository\obj\Debug\project-Repository.csproj.CoreCompileInputs.cache
+H:\HTML class\project-repository\project-Repository\bin\Debug\project-Repository.exe.config
+H:\HTML class\project-repository\project-Repository\bin\Debug\project-Repository.exe
+H:\HTML class\project-repository\project-Repository\bin\Debug\project-Repository.pdb
+H:\HTML class\project-repository\project-Repository\obj\Debug\project-Repository.exe
+H:\HTML class\project-repository\project-Repository\obj\Debug\project-Repository.pdb
